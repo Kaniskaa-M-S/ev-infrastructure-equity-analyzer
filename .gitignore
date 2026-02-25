@@ -1,0 +1,7 @@
+Data/
+GEOJSON/
+__pycache__/
+*.pyc
+*.mov
+.DS_Store
+venv/
