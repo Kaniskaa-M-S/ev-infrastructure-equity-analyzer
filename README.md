@@ -60,7 +60,13 @@ streamlit run app.py
 Data loading scripts are provided in `convert_geopandas.py` to preprocess 
 raw shapefiles into the required GeoJSON format.
 
-## Status
+## Presentations & Recognition
 
-Presented to transportation planners at the NY Upstate Planners Conference (2025). 
-Active development.
+**Smart Mapping in Action: GIS Applications in Housing, AEC, and the Transition to Zero-Emission Vehicles**  
+American Planning Association — New York Upstate Chapter Annual Conference, October 2025
+
+Presented alongside senior planners from LaBella Associates, exploring how GIS technologies 
+and data-driven tools enable smarter, more sustainable planning decisions.
+
+- [LaBella Associates Conference Post →](https://labellapc.com/news/labella-presenting-at-the-apa-new-york-upstate-chapters-2025-annual-conference/)
+- [Official Speaker Bios (APA NY Upstate 2025) →](https://static1.squarespace.com/static/5717ac15a3360cf4481e28bc/t/68ddadd878a0ad68d3177dd1/1759358424566/NY+Upstate+APA+2025+Conference+Speaker+Bios.pdf)
