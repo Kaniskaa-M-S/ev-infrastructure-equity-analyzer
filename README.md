@@ -47,11 +47,18 @@ All data used is publicly available:
 - NYS Civil Boundaries
 
 ## Running Locally
+
+This tool requires geospatial datasets (EV stations, census tracts, corridor 
+shapefiles) that are publicly available from the sources listed above. Download 
+and place them in the `Spatial/Data/` and `Spatial/GEOJSON/` directories, 
+then run:
 ```bash
 pip install -r requirements.txt
-cd Spatial
 streamlit run app.py
 ```
+
+Data loading scripts are provided in `convert_geopandas.py` to preprocess 
+raw shapefiles into the required GeoJSON format.
 
 ## Status
 
